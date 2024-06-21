@@ -6,4 +6,4 @@
 - GCS 상에서 IP 카메라를 통해 GSTREMER를 활용한 STREAMING
 - 총 2대의 카메라 사용
 
-
+![image](https://github.com/wjstndlr/IFR/assets/123084818/357c922b-4ec3-4b97-8e5f-1ec683586c9b)
