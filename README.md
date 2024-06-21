@@ -12,5 +12,5 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/wjstndlr/IFR/assets/123084818/91229f8e-dd14-4d7f-bbae-a79a4e13d944" style="height: 400px; margin-right: 20px;">
-  <img src="https://github.com/wjstndlr/IFR/assets/123084818/ef8be7f3-1922-41e2-a7af-df75ff7c7070" style="height: 400px;width: 600px;">
+  <img src="https://github.com/wjstndlr/IFR/assets/123084818/ef8be7f3-1922-41e2-a7af-df75ff7c7070" style="height: 400px;width: 400px;">
 </div>
