@@ -11,6 +11,6 @@
 ![image](https://github.com/wjstndlr/IFR/assets/123084818/357c922b-4ec3-4b97-8e5f-1ec683586c9b)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/wjstndlr/IFR/assets/123084818/91229f8e-dd14-4d7f-bbae-a79a4e13d944" style="height: 400px; margin-right: 50px;">
+  <img src="https://github.com/wjstndlr/IFR/assets/123084818/91229f8e-dd14-4d7f-bbae-a79a4e13d944" style="height: 400px; margin-right: 30px;">
   <img src="https://github.com/wjstndlr/IFR/assets/123084818/ef8be7f3-1922-41e2-a7af-df75ff7c7070" style="height: 400px;">
 </div>
