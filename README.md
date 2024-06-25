@@ -7,9 +7,11 @@
 - 지상 PC에서 TEAM VIEWER를 통한 객체 인식 실시간 영상 확인
 - RASBERRI PI TENSORFLOW LITE 모델을 활용한 객체 인식 코드 작성 (  TESORFLOOW LITE. PY )
 - 비행영상 및 GCS 화면 추후 업로드 예정
-
+  
+## HM30 NETWORK 구조도
 ![image](https://github.com/wjstndlr/IFR/assets/123084818/357c922b-4ec3-4b97-8e5f-1ec683586c9b)
 
+## 기체 세팅 사진
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/wjstndlr/IFR/assets/123084818/91229f8e-dd14-4d7f-bbae-a79a4e13d944" style="height: 400px; margin-right: 20px;">
   <img src="https://github.com/wjstndlr/IFR/assets/123084818/ef8be7f3-1922-41e2-a7af-df75ff7c7070" style="height: 400px;width: 500px;">
