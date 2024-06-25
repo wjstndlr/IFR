@@ -16,3 +16,4 @@
 </div>
 
 ## 장거리 비행 영상
+[![이군작전 사령부 장거리 비행 영상](http://img.youtube.com/vi/G_4AYgpi80M/0.jpg)](https://www.youtube.com/watch?v=G_4AYgpi80M)
